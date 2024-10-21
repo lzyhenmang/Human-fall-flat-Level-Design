@@ -1,0 +1,6 @@
+Base path: D:/Game Engine/Unity/Unity Engine/2017.4.13f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=2057 outsize=3881 ok=1
+
+Quitting shader compiler process

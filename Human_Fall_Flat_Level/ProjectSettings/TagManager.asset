@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Target
+  - NoGrab
+  - NoLift
+  - Explodable
+  - Level
+  - WasOccluder
   layers:
   - Default
   - TransparentFX
@@ -13,30 +19,30 @@ TagManager:
   - UI
   - 
   - 
+  - Ball
+  - Player
+  - DefaultNoCam
+  - CollideBall
+  - CollideBallNoCam
+  - CollidePlayer
+  - CollidePlayerNoCam
+  - Triggers
+  - BlockHuman
+  - Listener
+  - IgnoreHuman
+  - Track
+  - Cart
+  - IgnoreDoor
+  - Door
+  - CollideWithTrack
+  - SmallObjects
+  - Ice
+  - Icicle
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - NoGrab
+  - CamScanBackground
+  - CamScan
   m_SortingLayers:
   - name: Default
     uniqueID: 0
