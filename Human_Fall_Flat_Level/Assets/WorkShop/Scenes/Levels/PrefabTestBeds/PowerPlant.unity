@@ -7015,11 +7015,13 @@ MonoBehaviour:
   despawnHeight: -50
   respawnHeight: 5
   isKinematic: 0
+  manageActive: 1
   m_respawnEvent:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  syncLocalScale: 0
 --- !u!4 &1077797158 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4514006430694494, guid: fc146bf15b635424e92fd323b259e65d,
